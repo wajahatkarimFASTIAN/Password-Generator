@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PasswordGenerator
 =======
 # React + Vite
